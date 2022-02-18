@@ -3,4 +3,4 @@
 ## Profesores
 
 * Paco García
-* Anotnio cRorral
+* Antonio Corral
