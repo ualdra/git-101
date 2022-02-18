@@ -7,5 +7,4 @@
 
 ## Estudiantes
 * Juan Diego Ortega Aranda
-
-* María Gálvez González (MariaGalGon)
+* María Gálvez González
