@@ -7,3 +7,5 @@
 
 ## Estudiantes
 * Juan Diego Ortega Aranda
+
+* Alberto Arroyo
