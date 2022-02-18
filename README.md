@@ -1,5 +1,6 @@
 # git-101
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Profesores
 
@@ -11,3 +12,6 @@
 =======
 Bartlomiej Nowak
 >>>>>>> name
+=======
+Bartlomiej Nowak
+>>>>>>> 48e8dbd12863c2730269457822094c5ed1147f75
