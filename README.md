@@ -1,4 +1,5 @@
 # git-101
+<<<<<<< HEAD
 
 ## Profesores
 
@@ -7,3 +8,6 @@
 
 ## Estudiantes
 * Juan Diego Ortega Aranda
+=======
+Bartlomiej Nowak
+>>>>>>> name
