@@ -15,3 +15,4 @@
 * Hunor Moriczi
 * Jorge Mora Campoy
 * Cristian David Casado
+* Deyan Rosenov Stanchev
