@@ -20,3 +20,4 @@
 * David Gomez Lopez
 * Ioan Stefan Toderic
 * Martyna Grzegorczyk
+* Bartlomiej Nowak
