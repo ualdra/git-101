@@ -17,3 +17,4 @@
 * Cristian David Casado
 * Deyan Rosenov Stanchev
 * Aleksandra Generowicz
+* David Gomez Lopez
