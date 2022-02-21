@@ -21,3 +21,4 @@
 * Ioan Stefan Toderic
 * Martyna Grzegorczyk
 * Bartlomiej Nowak
+* Alejandro Tomás Soto Meca
