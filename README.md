@@ -21,3 +21,4 @@
 * Ioan Stefan Toderic
 * Martyna Grzegorczyk
 * Bartlomiej Nowak
+* Ruben Valentin Lopez
