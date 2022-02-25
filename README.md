@@ -22,3 +22,4 @@
 * Martyna Grzegorczyk
 * Bartlomiej Nowak
 * Alejandro Tomás Soto Meca
+* Sokaina Baouch
