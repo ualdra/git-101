@@ -11,3 +11,4 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Iván Castells Galindo
 * Matías García Gimeno
 * Adrián Camacho Capilla
+* Jose Luis Portillo Martín
