@@ -10,3 +10,4 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Manuel David Montesinos Navarrete
 * Iván Castells Galindo
 * Matías García Gimeno
+* Francisco de Borja José Gutiérrez Carrasco
