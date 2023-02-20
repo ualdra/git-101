@@ -5,4 +5,4 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Francisco José García García
 
 ## Alumnos
-* Antonio González Capel
+* Antonio González Capel (agc609)
