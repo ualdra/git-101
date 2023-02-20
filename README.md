@@ -8,4 +8,3 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Miguel Torres Álamo
 * Manuel David Montesinos Navarrete
 * Adrián Rodríguez Manzano
-
