@@ -4,3 +4,5 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 ## Profesorado
 * Francisco José García García
 
+##Alumnos
+Tito Julio González Padial
