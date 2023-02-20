@@ -12,4 +12,4 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Matías García Gimeno
 * Adrián Camacho Capilla
 * Mariano Fernández Agüero
-* José Luis Garrido Castro
+* José Luis Garrido Castro 
