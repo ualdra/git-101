@@ -1,5 +1,4 @@
 # Diseño Rápido de Aplicaciones (DRA)
-
 Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicaciones (DRA) de la Universidad de Almería.
 
 ## Profesorado
@@ -12,3 +11,5 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Matías García Gimeno
 * Adrián Camacho Capilla
 * Mariano Fernández Agüero
+* Antonio González Capel (agc609)
+
