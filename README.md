@@ -6,6 +6,8 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 * Francisco José García García
 
 ## Alumnos
+
+* Antonio González Capel (agc609)
 * Miguel Torres Álamo
 * Manuel David Montesinos Navarrete
 * Iván Castells Galindo
