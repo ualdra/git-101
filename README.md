@@ -4,3 +4,5 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 ## Profesorado
 * Francisco José García García
 
+## Alumnado
+* Ángel Joaquín García Márquez (usuario GitHub agarmar)
