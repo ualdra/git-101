@@ -10,5 +10,5 @@ Esta es una aplicación de ejemplo para el curso de Diseño Rápido de Aplicacio
 ## Alumnos
 * Miguel Torres Álamo
 * Manuel David Montesinos Navarrete
-* Ángel Joaquín García Márquez (usuario GitHub agarmar)
+* Ángel Joaquín García Márquez (agarmar)
 
